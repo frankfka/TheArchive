@@ -2,11 +2,11 @@
 
 ## 2020
 
-### 🌟 Fake News Detector (Leaders Prize) 🌟
+### 🌟 Fake News Detector (Leaders Prize Finalist - 5th Place) 🌟
 
-[Repo](https://github.com/frankfka/LeadersPrize-Phase2) | [Press Release](https://www.businesswire.com/news/home/20200110005270/en/Top-10-Teams-Vying-Leaders-Prize-Announced)
+[Submission Repo](https://github.com/frankfka/LeadersPrize-Phase2) | [Press Release](https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/fake-news-meets-real-adversary-as-1m-leaders-prize-awarded-to-canadian-ai-solution)
 
-- **Finalist - Natural Language Processing Competition to Identify Fake News**
+- **5th Place Finalist - Natural Language Processing ML Competition to Identify Fake News for a $1M prize**
 - Built a machine learning pipeline to automatically detect whether a statement is substantiated by evidence
 - Used the latest NLP models, such as BERT, to train a machine learing model
 - Implemented the end-to-end pipeline, from integrating document relevance scoring to running PyTorch training pipelines
